@@ -1,1 +1,0 @@
-The ShiftBack Google Chrome extension.
